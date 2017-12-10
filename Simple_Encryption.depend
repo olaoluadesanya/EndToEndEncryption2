@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512701807 source:/home/olaolu/fizz/Simple_Encryption/main.cpp
+	<iostream>
+	"Encryption.h"
+
+1512703305 /home/olaolu/fizz/Simple_Encryption/include/Encryption.h
+
+1512702859 source:/home/olaolu/fizz/Simple_Encryption/src/Encryption.cpp
+	"Encryption.h"
+	<iostream>
+
