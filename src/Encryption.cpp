@@ -1,3 +1,8 @@
+/* First bite on the encryption problem. Only simple selection and conditional statements  *
+ * used. The aim is to test data hiding. Reversing a modulus is harder than i expected so  *
+ * i hard coded the reverse numbers int the decrypt member function. One bug i noticed is  *
+ * when the integer starts with a number 0, type int will convert to a 3 digit integer.    */
+
 #include "Encryption.h"
 #include <iostream>
 
